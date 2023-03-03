@@ -1,0 +1,16 @@
+.blue{ color: blue;}
+.orange{
+    color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    color: red;
+}
+.empty{
+    list-style-type: none;
+  }
+  .font-size{
+    font-size: 24px;
+  }

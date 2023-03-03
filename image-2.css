@@ -1,0 +1,29 @@
+.container {
+    position: relative; 
+    background-color: rgb(255,255,241);
+    height: 500px;
+    width: 800px;
+    margin: 50px;
+    box-shadow: 3px 0px black;
+  }
+  .article {
+    float: left;
+    width: 200px;
+    height: 150px;
+    background-color: #d9d9d9;
+    margin: 6px 8px;
+    padding: 20px;
+    overflow: hidden;
+  }
+   p {
+  margin: 0;
+}
+.articlesRow2 {
+
+  height: 50px;
+  width: 750px;
+  margin: 0px 10px;
+  border-top: 3px solid black; 
+  border-bottom: 3px solid black; 
+  overflow: auto;
+} 
