@@ -1,0 +1,30 @@
+div{
+    float: left;
+    height: 50px;
+    width: 50px; 
+  padding: 23px;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: yellow;
+}
+
+div:nth-child(even) {
+    background-color: green;
+    margin-top: 50px;
+}
+
+section{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    float: left;
+    height: 50px;
+    width: 50px; 
+  padding: 23px;
+  border: 2px solid black;
+  margin: 10px;
+  background-color: red;
+}
+section:nth-child(odd){
+    display: none;
+}
