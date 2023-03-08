@@ -1,7 +1,7 @@
 # CSS-practice
 
 
-## Interduction
+## Intorduction
 ### CSS practice task
 
 
