@@ -1,7 +1,7 @@
 # CSS-practice
 
 
-## Intorduction
+## Introduction
 ### CSS practice task
 
 
